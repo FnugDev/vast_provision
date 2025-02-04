@@ -38,10 +38,18 @@ UNET_MODELS=(
 )
 
 LORAS_MODELS=(
-
+    "https://civitai.com/api/download/models/987578?type=Model&format=SafeTensor"
+    "https://civitai.com/api/download/models/1276468?type=Model&format=SafeTensor"
+    "https://civitai.com/api/download/models/1259737?type=Model&format=SafeTensor"
+    "https://civitai.com/api/download/models/1301374?type=Model&format=SafeTensor"
+    "https://civitai.com/api/download/models/20987?type=Model&format=SafeTensor&size=full&fp=fp16"
+    "https://civitai.com/api/download/models/1092347?type=Model&format=SafeTensor"
+    "https://civitai.com/api/download/models/647597?type=Model&format=SafeTensor"
+    "https://civitai.com/api/download/models/829739?type=Model&format=SafeTensor"
 )
 
 TEXT_ENCODERS_MODELS=(
+    "https://huggingface.co/Comfy-Org/HunyuanVideo_repackaged/resolve/main/split_files/text_encoders/clip_l.safetensors?download=true"
     "https://huggingface.co/city96/llava-llama-3-8b-v1_1-imat-gguf/resolve/main/llava-llama-3-8B-v1_1-Q4_K_M.gguf?download=true"
     "https://huggingface.co/city96/llava-llama-3-8b-v1_1-imat-gguf/resolve/main/llava-llama-3-8B-v1_1-Q5_K_M.gguf?download=true"
     "https://huggingface.co/city96/llava-llama-3-8b-v1_1-imat-gguf/resolve/main/llava-llama-3-8B-v1_1-Q6_K.gguf?download=true"
