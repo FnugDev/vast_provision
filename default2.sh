@@ -45,6 +45,8 @@ LORAS_MODELS=(
     "https://civitai.com/api/download/models/1092347?type=Model&format=SafeTensor"
     "https://civitai.com/api/download/models/647597?type=Model&format=SafeTensor"
     "https://civitai.com/api/download/models/829739?type=Model&format=SafeTensor"
+    "https://civitai.com/api/download/models/19292?type=Model&format=SafeTensor&size=full&fp=fp16"
+    "https://civitai.com/api/download/models/1081945?type=Model&format=SafeTensor"
 )
 
 TEXT_ENCODERS_MODELS=(
